@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My CV</title>
+        <link rel="stylesheet" href="css/stylesheet.css">
+    </head>
+    <body>
+        <di class="profile">
+            <div class="wrapper_profile">
+                <div class="Photo_name">
+                    <img src="imag/IMG-20230112-WA0016(1).jpg">
+                    <h1>Nabillah Rhamadhan S</h1>
+                </div>
+                <div class="detail_profile">
+                    <h3>Bron</h3>
+                    <p>November 6, 2003 (Age 20), Sukabumi, West Java, Indonesia</p>
+                    <h3>Addreas</h3>
+                    <p>Wakah, Ngrambe, Kab Ngawi, Kode pos : 63263</p>
+                    <h3>Telp</h3>
+                    <p>085755692122</p>
+                    <h3>Email</h3>
+                    <p>nabilmochacinno27@gmail.com</p>
+                    <h3>Gender</h3>
+                    <p>Man</p>
+                </div>
+            </div>
+        </di>
+        <di class="Hobbies"></di>
+        <di class="Skills_experience"></di>
+        <di class="Education"></di>
+        <di class="Course"></di>
+        <di class="footer"></di>
+    </body>
+</html>
